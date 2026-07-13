@@ -1,7 +1,7 @@
-Flask
+ Flask
 flask-cors
-tensorflow
-numpy
+intel-tensorflow==2.15.0
+numpy<2.0.0
 opencv-python-headless
 Pillow
 scikit-image
